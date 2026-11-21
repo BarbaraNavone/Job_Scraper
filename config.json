@@ -1,11 +1,12 @@
 {
-  "_README": "Minimal test config to verify scraper + dashboard pipeline in 1-2 minutes.",
+  "_README": "Optimized European Biotechnology & Bioinformatics configuration for Job_Scraper.",
   "profile": {
-    "title": "Biotechnology",
-    "subtitle": "Europe (Test)",
+    "title": "Biotechnology & Bioinformatics",
+    "subtitle": "Europe",
     "emoji": "🧪"
   },
   "keywords": {
+    "_comment": "Multilingual title matching (EN, IT, DE, FR) to capture both international and local roles.",
     "include": [
       "biotechnologist",
       "biotechnology",
@@ -14,125 +15,192 @@
       "cell biolog",
       "research associate",
       "research assistant",
+      "research technician",
       "laboratory technician",
       "lab technician",
       "laboratory analyst",
+      "lab analyst",
+      "laboratory scientist",
+      "laboratory assistant",
+      "junior scientist",
       "research scientist",
       "associate scientist",
+      "scientific associate",
+      "preclinical",
+      "translational",
+      "clinical research",
       "bioinformatic",
       "computational biolog",
       "genomic",
+      "transcriptomic",
       "data analyst",
+      "molecular diagnostics",
       "quality control",
-      "qc analyst"
+      "qc analyst",
+      "biotecnolog",
+      "biologo",
+      "biologia molecolare",
+      "tecnico di laboratorio",
+      "analista di laboratorio",
+      "ricercatore",
+      "controllo qualità",
+      "laborant",
+      "biotechnologie",
+      "molekularbiolog",
+      "technicien de laboratoire",
+      "chercheur",
+      "contrôle qualité"
     ],
     "exclude": [
-      "senior",
+"senior",
       "principal",
+      "lead scientist",
+      "staff scientist",
       "director",
       "head of",
       "manager",
       "professor",
       "postdoc",
       "postdoctoral",
-      "phd candidate",
-      "internship"
+      "direttore",
+      "direttrice",
+      "dirigente",
+      "responsabile",
+      "capo laboratorio",
+      "professore",
+      "professoressa",
+      "docente",
+      "post-doc",
+      "post-dottorato",
+      "engineer",
+      "ingegnere"
     ],
     "fuzzy_seniority": [],
     "fuzzy_domain": [],
     "fuzzy_exclude": []
   },
   "search_terms": {
+    "_comment": "Core root terms to prevent rate-limiting while capturing broad results.",
     "linkedin": [
       "biotechnology",
-      "bioinformatics"
+      "molecular biology",
+      "research associate",
+      "laboratory technician",
+      "bioinformatics",
+      "quality control analyst"
     ],
     "indeed": [
+      "biotechnologist",
       "biotechnology",
-      "bioinformatics"
+      "molecular biology",
+      "cell biology",
+      "research associate",
+      "research assistant",
+      "laboratory technician",
+      "laboratory analyst",
+      "research scientist",
+      "bioinformatics",
+      "computational biology",
+      "genomics",
+      "quality control analyst",
+      "biotecnologo"
     ],
     "glassdoor": [
+      "biotechnologist",
       "biotechnology",
-      "bioinformatics"
+      "molecular biology",
+      "cell biology",
+      "research associate",
+      "research assistant",
+      "laboratory technician",
+      "laboratory analyst",
+      "research scientist",
+      "bioinformatics",
+      "computational biology",
+      "genomics",
+      "quality control analyst"
     ],
-    "ziprecruiter": [
-      "biotechnology",
-      "bioinformatics"
-    ],
+    "ziprecruiter": [],
     "google_jobs": [
+      "biotechnologist",
       "biotechnology",
-      "bioinformatics"
+      "molecular biology",
+      "cell biology",
+      "research associate",
+      "research assistant",
+      "laboratory technician",
+      "laboratory analyst",
+      "research scientist",
+      "bioinformatics",
+      "computational biology",
+      "genomics",
+      "quality control analyst"
     ],
-    "hiring_cafe": [
-      "biotechnology"
-    ],
-    "calcareers": [
-      "biotechnology"
-    ],
-    "usajobs": [
-      "biotechnology"
-    ],
-    "governmentjobs": [
-      "biotechnology"
-    ],
-    "workday": [
-      "biotechnology"
-    ]
+    "hiring_cafe": [],
+    "calcareers": [],
+    "usajobs": [],
+    "governmentjobs": [],
+    "workday": []
   },
   "locations": {
     "linkedin": [
-      {
-        "name": "Italy",
-        "location": "Italy",
-        "geoId": ""
-      },
-      {
-        "name": "Switzerland",
-        "location": "Switzerland",
-        "geoId": ""
-      }
+      { "name": "Italy", "location": "Italy", "geoId": "" },
+      { "name": "Switzerland", "location": "Switzerland", "geoId": "" },
+      { "name": "Germany", "location": "Germany", "geoId": "" },
+      { "name": "France", "location": "France", "geoId": "" },
+      { "name": "Netherlands", "location": "Netherlands", "geoId": "" },
+      { "name": "United Kingdom", "location": "United Kingdom", "geoId": "" },
+      { "name": "Belgium", "location": "Belgium", "geoId": "" },
+      { "name": "Sweden", "location": "Sweden", "geoId": "" },
+      { "name": "Denmark", "location": "Denmark", "geoId": "" },
+      { "name": "Ireland", "location": "Ireland", "geoId": "" }
     ],
     "indeed": [
-      {
-        "location": "Italy",
-        "country": "Italy"
-      },
-      {
-        "location": "Switzerland",
-        "country": "Switzerland"
-      }
+      { "location": "Italy", "country": "Italy" },
+      { "location": "Switzerland", "country": "Switzerland" },
+      { "location": "Germany", "country": "Germany" },
+      { "location": "France", "country": "France" },
+      { "location": "Netherlands", "country": "Netherlands" },
+      { "location": "United Kingdom", "country": "GB" },
+      { "location": "Belgium", "country": "Belgium" },
+      { "location": "Sweden", "country": "Sweden" },
+      { "location": "Denmark", "country": "Denmark" },
+      { "location": "Ireland", "country": "Ireland" },
+      { "location": "Spain", "country": "Spain" },
+      { "location": "Austria", "country": "Austria" },
+      { "location": "Norway", "country": "Norway" },
+      { "location": "Finland", "country": "Finland" }
     ],
     "glassdoor": [
-      {
-        "location": "Italy",
-        "country": "Italy"
-      },
-      {
-        "location": "Switzerland",
-        "country": "Switzerland"
-      }
+      { "location": "Italy", "country": "Italy" },
+      { "location": "Switzerland", "country": "Switzerland" },
+      { "location": "Germany", "country": "Germany" },
+      { "location": "France", "country": "France" },
+      { "location": "Netherlands", "country": "Netherlands" },
+      { "location": "United Kingdom", "country": "GB" },
+      { "location": "Belgium", "country": "Belgium" },
+      { "location": "Sweden", "country": "Sweden" },
+      { "location": "Denmark", "country": "Denmark" },
+      { "location": "Ireland", "country": "Ireland" },
+      { "location": "Spain", "country": "Spain" },
+      { "location": "Austria", "country": "Austria" }
     ],
-    "ziprecruiter": [
-      {
-        "location": "Italy",
-        "country": "Italy"
-      }
-    ],
+    "ziprecruiter": [],
     "google_jobs": [
-      {
-        "location": "Italy",
-        "country": "Italy"
-      },
-      {
-        "location": "Switzerland",
-        "country": "Switzerland"
-      }
+      { "location": "Italy", "country": "Italy" },
+      { "location": "Switzerland", "country": "Switzerland" },
+      { "location": "Germany", "country": "Germany" },
+      { "location": "France", "country": "France" },
+      { "location": "Netherlands", "country": "Netherlands" },
+      { "location": "United Kingdom", "country": "GB" },
+      { "location": "Belgium", "country": "Belgium" },
+      { "location": "Sweden", "country": "Sweden" },
+      { "location": "Denmark", "country": "Denmark" },
+      { "location": "Ireland", "country": "Ireland" },
+      { "location": "Spain", "country": "Spain" },
+      { "location": "Austria", "country": "Austria" }
     ],
-    "hiring_cafe": [
-      {
-        "location": "United States"
-      }
-    ],
+    "hiring_cafe": [],
     "linkedin_partitions": {
       "states": [],
       "high_volume": {
@@ -144,7 +212,23 @@
   "location_filter": {
     "terms": [
       "italy",
+      "italia",
       "switzerland",
+      "schweiz",
+      "suisse",
+      "germany",
+      "deutschland",
+      "france",
+      "netherlands",
+      "united kingdom",
+      "belgium",
+      "sweden",
+      "denmark",
+      "ireland",
+      "spain",
+      "austria",
+      "norway",
+      "finland",
       "remote",
       "europe",
       "eu"
@@ -161,7 +245,7 @@
     "user_agent": ""
   },
   "hiring_cafe": {
-    "max_pages": 1
+    "max_pages": 3
   },
   "employers": {
     "priority": [],
@@ -195,19 +279,23 @@
       ],
       [
         "Molecular & Cell Biology",
-        "molecular|cell biolog|biotechnolog|biomedical"
+        "molecular|cell biolog|biotechnolog|biomedical|biotecnolog|biologo|molekular"
       ],
       [
         "Lab Technician / Analyst",
-        "technician|analyst|lab assistant|laboratory assistant"
+        "technician|analyst|lab assistant|tecnico|analista|laborant|technicien"
       ],
       [
         "Research Scientist / Associate",
-        "research|scientist|associate"
+        "research|scientist|associate|ricercatore|chercheur"
       ],
       [
         "Quality Control / Diagnostics",
-        "quality control|\\bqc\\b|diagnostic"
+        "quality control|\\bqc\\b|diagnostic|controllo qualità|contrôle qualité"
+      ],
+      [
+        "Clinical / Preclinical",
+        "clinical|preclinical|translational"
       ]
     ]
   },
