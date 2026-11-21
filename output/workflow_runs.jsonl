@@ -2,3 +2,4 @@
 {"job_count": 0, "run_attempt": "1", "run_id": "44878259629", "timestamp": "2026-11-21T07:02:36Z", "workflow": "glassdoor"}
 {"job_count": 368, "run_attempt": "1", "run_id": "44879322391", "timestamp": "2026-11-21T07:49:02Z", "workflow": "indeed"}
 {"job_count": 0, "run_attempt": "1", "run_id": "44889084213", "timestamp": "2026-11-21T09:21:36Z", "workflow": "google_jobs"}
+{"job_count": 0, "run_attempt": "1", "run_id": "44948743708", "timestamp": "2026-11-21T21:25:18Z", "workflow": "linkedin"}
