@@ -1,5 +1,5 @@
 # 🔎 Google Jobs — Biotechnology & Bioinformatics x Barbara Roles
-*Last updated: 2026-11-23 03:04 UTC*
+*Last updated: 2026-11-23 13:36 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
