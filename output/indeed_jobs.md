@@ -1,6 +1,9 @@
 # 🟦 Indeed — Biotechnology & Bioinformatics x Barbara Roles
-*Last updated: 2026-11-22 21:35 UTC*
+*Last updated: 2026-11-23 02:10 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Research assistant (praedoc) (f/m/d)](https://de.indeed.com/viewjob?jk=496775dd70840af6) — Freie Universität Berlin
+- 📍 **Location:** Germany
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-23
