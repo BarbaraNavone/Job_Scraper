@@ -1,40 +1,37 @@
 # 🔥 LinkedIn — Biotechnology & Bioinformatics x Barbara Roles
-*Last updated: 2026-11-27 00:49 UTC*
+*Last updated: 2026-11-27 09:44 UTC*
 
-**9 new role(s)** since last run · 9 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Laboratory Technician (m/w/d)](https://www.linkedin.com/jobs/view/4493856415/) — bp
-- 📍 **Location:** Lingen, Lower Saxony, Germany
+### [NEODIPLOMATI TECNICI DA ADIBIRE AL CONTROLLO QUALITÀ](https://www.linkedin.com/jobs/view/4493866949/) — UMANA SPA
+- 📍 **Location:** Gallarate, Lombardy, Italy
 - 🕒 **Posted:** 2026-11-27
 
-### [CDD chercheur (H/F) en QCD sur réseau et et phénoménologie hadronique](https://www.linkedin.com/jobs/view/4495561459/) — Centre Lasers Intenses et Applications
-- 📍 **Location:** Marseille, Provence-Alpes-Côte d'Azur, France
+### [Medical Data Analyst (m/w/d)](https://www.linkedin.com/jobs/view/4495591520/) — DocCheck
+- 📍 **Location:** Cologne, North Rhine-Westphalia, Germany
 - 🕒 **Posted:** 2026-11-27
 
-### [Research Assistant EU-wide characterization soil microbiomes](https://www.linkedin.com/jobs/view/4495062300/) — Wageningen University & Research
-- 📍 **Location:** Wageningen, Gelderland, Netherlands
+### [Data Analyst / Scientist - Datenmanagement (all gender)](https://www.linkedin.com/jobs/view/4492387451/) — ALTEN
+- 📍 **Location:** Forchheim, Bavaria, Germany
 - 🕒 **Posted:** 2026-11-27
 
-### [Technicien de laboratoire - Préparation des Produits Sanguins Labiles F/H](https://www.linkedin.com/jobs/view/4494167968/) — EFS
+### [TECHNICIEN DE LABORATOIRE CHIMIE EAUX 37 (216XZSF)](https://www.linkedin.com/jobs/view/4495088192/) — Inovalys
 - 📍 **Location:** Nantes, Pays de la Loire, France
-- 🕒 **Posted:** 2026-11-26
+- 🕒 **Posted:** 2026-11-27
 
-### [Research & Development (R&D) Specialist Data Analyst](https://www.linkedin.com/jobs/view/4493865026/) — University Hospital Southampton NHS FT
-- 📍 **Location:** Southampton, England, United Kingdom
-- 🕒 **Posted:** 2026-11-26
+### [Research Scientist | Remote](https://www.linkedin.com/jobs/view/4495073935/) — Crossing Hurdles
+- 📍 **Location:** United Kingdom
+- 💰 **Salary:** $80.00/hr - $120.00/hr
+- 🕒 **Posted:** 2026-11-27
 
-### [Biomedical Support Worker](https://www.linkedin.com/jobs/view/4493850537/) — University Hospital Southampton NHS FT
-- 📍 **Location:** Southampton, England, United Kingdom
-- 🕒 **Posted:** 2026-11-26
+### [Inbound Quality Control Auditor - Days](https://www.linkedin.com/jobs/view/4452602235/) — HelloFresh
+- 📍 **Location:** Derby, England, United Kingdom
+- 🕒 **Posted:** 2026-11-27
 
-### [Research Associate in Pure Mathematics](https://www.linkedin.com/jobs/view/4495065051/) — The University of Manchester
-- 📍 **Location:** Manchester, England, United Kingdom
-- 🕒 **Posted:** 2026-11-26
+### [Laboratory Assistant](https://www.linkedin.com/jobs/view/4476665098/) — ALS
+- 📍 **Location:** Loughrea, County Galway, Ireland
+- 🕒 **Posted:** 2026-11-27
 
-### [Laboratory Technician](https://www.linkedin.com/jobs/view/4495051632/) — Bureau Veritas
-- 📍 **Location:** Witham, England, United Kingdom
-- 🕒 **Posted:** 2026-11-26
-
-### [Research Associate 1](https://www.linkedin.com/jobs/view/4495049879/) — PSC Biotech® Corporation
-- 📍 **Location:** Cork, County Cork, Ireland
-- 🕒 **Posted:** 2026-11-26
+### [XRF Laboratory Assistant](https://www.linkedin.com/jobs/view/4477075411/) — ALS
+- 📍 **Location:** Loughrea, County Galway, Ireland
+- 🕒 **Posted:** 2026-11-27
