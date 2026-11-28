@@ -1,170 +1,117 @@
 # 🟦 Indeed — Biotechnology & Bioinformatics x Barbara Roles
-*Last updated: 2026-11-27 09:46 UTC*
+*Last updated: 2026-11-28 05:03 UTC*
 
-**27 new role(s)** since last run · 27 total in last 24h
+**19 new role(s)** since last run · 20 total in last 24h
 
-### [Tecnico di laboratorio](https://it.indeed.com/viewjob?jk=60ae1ffbf57720fd) — Gipsos Raddusa S.r.l.
-- 📍 **Location:** Raddusa, SIC, Italy
-- 💰 **Salary:** $20k–$24k/yr
+### [STAGE ADDETTO/A CONTROLLO QUALITÀ - POMEZIA S. PALOMBA (SEDE)](https://it.indeed.com/viewjob?jk=4151f82ee8b73802) — risparmio casa
+- 📍 **Location:** Pomezia, LAZ, Italy
+- 💰 **Salary:** $750–$1000/mo
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
+- **Job type:** fulltime, internship
+- 🕒 **Posted:** 2026-11-27
 
-### [Tecnico di laboratorio Ciclismo](https://it.indeed.com/viewjob?jk=12439f614d72d7b6) — Decathlon
-- 📍 **Location:** Bologna, EMI, Italy
-- 💰 **Salary:** $1043/mo
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-11-26
-
-### [Laborant:in Mikrobiologie (100%)](https://ch.indeed.com/viewjob?jk=b26dcdaa4379b354) — Nestlé
-- 📍 **Location:** Konolfingen, BE, Switzerland
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [Associate Scientist – Analytical Sciences](https://ch.indeed.com/viewjob?jk=f4e234576ab23ced) — FMC Corporation
-- 📍 **Location:** Schaffhausen, SH, Switzerland
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [Research Assistant Position with the TIM Chair](https://ch.indeed.com/viewjob?jk=de37889f495bf014) — ETH Zurich
-- 📍 **Location:** Zürich, ZH, Switzerland
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-11-26
-
-### [Student Research Assistant Ageing and Nutrition 25% / ENLIGHT](https://ch.indeed.com/viewjob?jk=079fdbd8d7c6f583) — Universität Bern
-- 📍 **Location:** Bern, BE, Switzerland
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-11-26
-
-### [Lab Technician](https://ch.indeed.com/viewjob?jk=20a44fee8ad7c859) — geoquip marine
-- 📍 **Location:** St. Gallen, SG, Switzerland
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-26
-
-### [Laboratory Technician Analytical Chemistry](https://ch.indeed.com/viewjob?jk=596dd0643b36b870) — FMC Corporation
-- 📍 **Location:** Schaffhausen, SH, Switzerland
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [Research Associate in Precipitation Forecasting and Climate Adaptation (f/m/x)](https://de.indeed.com/viewjob?jk=f09365123a813d0e) — Universität zu Köln
-- 📍 **Location:** Köln, NW, Germany
-- **Work mode:** On-site
-- **Job type:** parttime
-- 🕒 **Posted:** 2026-11-26
-
-### [Research Associate (m/f/x)](https://de.indeed.com/viewjob?jk=65678d800a6a825c) — Technische Universität Dresden
-- 📍 **Location:** Dresden, SN, Germany
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [243/2026 Research Associate (m/f/d) in the field of Medical Robotics and Robot Learning](https://de.indeed.com/viewjob?jk=00a40d1945f5322a) — Otto-von-Guericke-Universität Magdeburg
-- 📍 **Location:** Magdeburg, ST, Germany
-- **Work mode:** On-site
-- **Job type:** parttime, fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [Laboratory Technician (m/w/d)](https://de.indeed.com/viewjob?jk=bfdff33eec35132e) — bp
-- 📍 **Location:** Lingen, NI, Germany
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [Data Analyst – Advanced Analytics & AI (m/f/d)](https://de.indeed.com/viewjob?jk=77fcd63a6a47e056) — Advantest
-- 📍 **Location:** Böblingen, BW, Germany
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-26
-
-### [iPSC Research technician](https://nl.indeed.com/viewjob?jk=1917669cca855930) — UMC Utrecht
-- 📍 **Location:** Utrecht, UT, Netherlands
-- 💰 **Salary:** $3171–$4492/mo
-- **Work mode:** On-site
-- **Job type:** parttime, fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [Research Assistant EU-wide characterization soil microbiomes](https://nl.indeed.com/viewjob?jk=40e7ddb2b08d4925) — Wageningen University & Research
-- 📍 **Location:** Wageningen, GE, Netherlands
-- 💰 **Salary:** $3537–$4673/mo
+### [Research Associate](https://de.indeed.com/viewjob?jk=62834d527db22f88) — Zeitgeist Labs
+- 📍 **Location:** Berlin, BE, Germany
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-27
 
-### [Research Technician Platform Protection & Advanced Materials](https://nl.indeed.com/viewjob?jk=603ab866b72d05dd) — TNO
-- 📍 **Location:** Den Haag, ZH, Netherlands
-- 💰 **Salary:** $2635–$4600/mo
-- **Work mode:** On-site
-- **Job type:** parttime, fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [Quality Control Analist](https://nl.indeed.com/viewjob?jk=3ff1c631128f9ec7) — CARBOGEN AMCIS
-- 📍 **Location:** Veenendaal, UT, Netherlands
-- 💰 **Salary:** $3250–$4500/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [Quality Control Analist](https://nl.indeed.com/viewjob?jk=8a4920aa4bd93205) — CARBOGEN AMCIS
-- 📍 **Location:** Veenendaal, UT, Netherlands
-- 💰 **Salary:** $3250–$4500/mo
-- **Work mode:** On-site
-- **Job type:** parttime, fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [Associate Scientist at Amgen Research Copenhagen](https://dk.indeed.com/viewjob?jk=ef6c9562c7b9c613) — Amgen
-- 📍 **Location:** København, D84, Denmark
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-27
-
-### [Research Assistant on Electrochemical Graphene Production](https://dk.indeed.com/viewjob?jk=42aff9a5786a8ac7) — Aarhus University
-- 📍 **Location:** Aarhus, D82, Denmark
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [Research Associate 1](https://ie.indeed.com/viewjob?jk=8a2b5ad5dcc90583) — PSC Biotech
-- 📍 **Location:** Cork, C, Ireland
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [Laboratory Technician](https://ie.indeed.com/viewjob?jk=fd809a11031874f0) — Natures Best
-- 📍 **Location:** Drogheda, LH, Ireland
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [Laboratory Assistant (Seasonal Post)](https://ie.indeed.com/viewjob?jk=4edc53b3a155d86d) — Southern Scientific Services Ltd.
-- 📍 **Location:** Farranfore, KY, Ireland
-- 💰 **Salary:** $30k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime, temporary, contract
-- 🕒 **Posted:** 2026-11-26
-
-### [Associate II, Quality Control, Chemistry](https://es.indeed.com/viewjob?jk=b618986e10a998d6) — Moderna
-- 📍 **Location:** Madrid, MD, Spain
+### [Doctoral Research Associate (Wissenschaftliche*r Mitarbeiter*in, salary level E 13 TV-L)](https://de.indeed.com/viewjob?jk=7e10357d8e38ea8e) — Universität Münster
+- 📍 **Location:** Münster, NW, Germany
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-27
 
-### [NDT Laboratory Technician](https://es.indeed.com/viewjob?jk=6aa505b110febeda) — Westinghouse Electric Company, LLC
-- 📍 **Location:** San Sebastián de los Reyes, MD, Spain
+### [Research Scientist (m/w/d) Digital Phenotyping & Environmental Data](https://de.indeed.com/viewjob?jk=7b4bde1dac93897c) — KWS Group
+- 📍 **Location:** Einbeck, NI, Germany
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
+- 🕒 **Posted:** 2026-11-27
 
-### [Laboratory Technician (m/w/d)](https://at.indeed.com/viewjob?jk=13084c18817d5c8a) — OMYA GmbH
-- 📍 **Location:** Gummern, K, Austria
+### [PhD Position in Translational Cardiovas](https://de.indeed.com/viewjob?jk=434eb988aaa82fc4) — Universitätsmedizin Göttingen UMG
+- 📍 **Location:** Göttingen, NI, Germany
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-26
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-11-27
 
-### [Translational Pathology Lead, Research & Development, Orion Pharma](https://fi.indeed.com/viewjob?jk=43d1138565b413f5) — Orion Corporation
+### [Data Analyst (m/f/d)](https://de.indeed.com/viewjob?jk=0d1b5cacd79057df) — KWS Group
+- 📍 **Location:** Einbeck, NI, Germany
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-27
+
+### [Preclinical evaluation of de- and recellularised muscle constructs in rabbit allograft models](https://be.indeed.com/viewjob?jk=1648d4f494f26341) — KU LEUVEN
+- 📍 **Location:** Leuven, VLG, Belgium
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-27
+
+### [PhD position in Molecular Biology](https://se.indeed.com/viewjob?jk=f461d28e185171f2) — Umeå Universitet
+- 📍 **Location:** Umeå, AC, Sweden
+- **Work mode:** On-site
+- **Job type:** contract
+- 🕒 **Posted:** 2026-11-27
+
+### [Research Assistant in Immunology](https://se.indeed.com/viewjob?jk=ea03805f9670117a) — Karolinska Institutet (KI)
+- 📍 **Location:** Huddinge, AB, Sweden
+- **Work mode:** On-site
+- **Job type:** contract
+- 🕒 **Posted:** 2026-11-27
+
+### [Research Assistant Position](https://se.indeed.com/viewjob?jk=d0a1036979939f20) — Karolinska Institutet (KI)
+- 📍 **Location:** Solna, AB, Sweden
+- **Work mode:** On-site
+- **Job type:** contract
+- 🕒 **Posted:** 2026-11-27
+
+### [Sr Research Scientist](https://dk.indeed.com/viewjob?jk=e015e8ebb99b4ca9) — Novo
+- 📍 **Location:** Måløv, D84, Denmark
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-27
+
+### [Microbiology Laboratory Technician](https://ie.indeed.com/viewjob?jk=d78b408345fe007a) — Divpor Limited
+- 📍 **Location:** Ballon, CW, Ireland
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-27
+
+### [Research Technician (Lupus Unit - Rheumatology)](https://es.indeed.com/viewjob?jk=67135fa679049fd2) — Vall d'Hebron Institut de Recerca
+- 📍 **Location:** Barcelona, CT, Spain
+- **Work mode:** On-site
+- **Job type:** parttime
+- 🕒 **Posted:** 2026-11-27
+
+### [Manufacturing Lab Technician I](https://es.indeed.com/viewjob?jk=e82b17b0978f1134) — Werfen
+- 📍 **Location:** CT, Spain
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-27
+
+### [Research Technician (Neurodegenerative Diseases Group)](https://es.indeed.com/viewjob?jk=596cf353dcd32494) — Vall d'Hebron Institut de Recerca
+- 📍 **Location:** Barcelona, CT, Spain
+- 💰 **Salary:** $22k–$25k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-27
+
+### [Clinical Research Associate (CRA) - Monitor d'Assaigs Clínics, Ref. 42-2026](https://es.indeed.com/viewjob?jk=264b02aee78928b4) — Hospital Sant Joan de Déu
+- 📍 **Location:** Esplugues de Llobregat, CT, Spain
+- 💰 **Salary:** $30k–$33k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-27
+
+### [Research Assistant for Financial Reserach](https://es.indeed.com/viewjob?jk=7be934d5fc91c574) — IESE Business School
+- 📍 **Location:** Barcelona, CT, Spain
+- 💰 **Salary:** $1830/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-27
+
+### [plaÃ§a de Laboratory Technician in Core Facilities CIDO](https://es.indeed.com/viewjob?jk=bfc26ef7b7384a66) — INSTITUT DE BIOENGINYERIA DE CATALUNYA (IBEC)
+- 📍 **Location:** Barcelona, CT, Spain
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-27
+
+### [Research Scientist, Target Discovery, Cancer Genomics](https://fi.indeed.com/viewjob?jk=d2e732f34f658aba) — Orion Corporation
 - 📍 **Location:** Turku, F20, Finland
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
+- 🕒 **Posted:** 2026-11-27
